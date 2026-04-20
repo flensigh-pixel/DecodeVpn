@@ -1,3 +1,9 @@
+#profile-title: 🛜 Decode Vpn
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | н/д - не работает
+#profile-update-interval: 3
+#support-url: https://t.me/DecodeVpn_bot
+#profile-web-page-url: https://t.me/Decode_Vpn
+
 vless://f77036ac-1e61-444f-b61a-846ec6011ae9@213.176.94.20:443?security=reality&encryption=none&pbk=yeaSE4pe20t6MLjBI1zBM4WeEKIwcxqSgNz3cZmsMxE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%40Decode_vpn
 vless://2c78c246-5556-47bf-9a22-0ed5d6237389@at.plus-hit.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at.plus-hit.ru&fp=random&security=reality&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=ac7f3b2d5e01948b&packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%2C%20%D0%92%D0%B5%D0%BD%D0%B0%20%40Decode_vpn
 vless://15da07d5-7f72-47db-9bd1-e122e9698d24@at.subslan.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=anygo.info&fp=random&security=reality&pbk=hDc2QMm_LQMREOqAYuJXEZobeFNo9z0UEIT4Fmh2cAs&sid=&packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%2C%20%D0%A8%D1%82%D0%B8%D1%80%D0%B8%D1%8F%20%40Decode_vpn
